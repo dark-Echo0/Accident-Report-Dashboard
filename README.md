@@ -7,10 +7,13 @@
 
 ## Key Insights:
 1. Safety Performance Trends - Between 2022 and 2024, total accidents declined slightly by 0.9% (from 6,117 to 6,061), yet the Risk Score increased from 0.43 to 0.44, suggesting a rise in the severity or impact per incident. Despite the marginal reduction in frequency, casualty figures remained persistently high, indicating limited progress in reducing overall harm. However, in the first four months of 2025, recorded accidents fell to 1,734, representing a decrease of 230 compared to the same period last year, accompanied by a significant reduction of 318 total casualties
-2. Accident Severity & Visibility - The distribution of accident types has remained remarkably consistent, indicating that underlying environmental and behavioral factors continue to persist. Minor accidents account for the largest share, comprising approximately 47–48% of all incidents, followed by major and fatal accidents, each contributing around 25–26%. In terms of visibility, nearly half of all accidents, approximately 49–50%, occur under high visibility conditions, suggesting that driver behavior, such as overspeeding or distraction, plays a more significant role than adverse environmental conditions. Meanwhile, medium and low visibility conditions collectively account for the remaining 50% of incidents.
-3. Temporal and Geographic Insights - Each year demonstrates a distinct linear accumulation of accidents and casualties. Data reveals a consistent upward trend beginning in July and peaking in December. While Chandigarh recorded the highest accident volume in 2022 with 809 incidents, Mumbai and Chennai emerged as the highest-volume cities by 2024, each reporting 775 accidents. 
+   
+3. Accident Severity & Visibility - The distribution of accident types has remained remarkably consistent, indicating that underlying environmental and behavioral factors continue to persist. Minor accidents account for the largest share, comprising approximately 47–48% of all incidents, followed by major and fatal accidents, each contributing around 25–26%. In terms of visibility, nearly half of all accidents, approximately 49–50%, occur under high visibility conditions, suggesting that driver behavior, such as overspeeding or distraction, plays a more significant role than adverse environmental conditions. Meanwhile, medium and low visibility conditions collectively account for the remaining 50% of incidents.
+   
+5. Temporal and Geographic Insights - Each year demonstrates a distinct linear accumulation of accidents and casualties. Data reveals a consistent upward trend beginning in July and peaking in December. While Chandigarh recorded the highest accident volume in 2022 with 809 incidents, Mumbai and Chennai emerged as the highest-volume cities by 2024, each reporting 775 accidents. 
 
 ## Procedure for creating a dashboard from raw dataset to data visualization
+
 ### Data Cleaning
 In these phase I used Excel to:
 1. Standardizing Data
