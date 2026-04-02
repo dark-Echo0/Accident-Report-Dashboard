@@ -3,7 +3,8 @@
 ## Preview of the Dashboard
 
 #### Overview Dashboard
-![](image/OverviewDashboard.png)
+![](image/car_accident_dashboard.png)
+[Video presentation of the Dashboard](https://youtu.be/iqNWPAPwrzU)
 
 ## Key Insights:
 1. Safety Performance Trends - Between 2022 and 2024, total accidents declined slightly by 0.9% (from 6,117 to 6,061), yet the Risk Score increased from 0.43 to 0.44, suggesting a rise in the severity or impact per incident. Despite the marginal reduction in frequency, casualty figures remained persistently high, indicating limited progress in reducing overall harm. However, in the first four months of 2025, recorded accidents fell to 1,734, representing a decrease of 230 compared to the same period last year, accompanied by a significant reduction of 318 total casualties
@@ -57,4 +58,4 @@ Non-Official Status: This report is not affiliated with any government transport
 
 ## Reference 
 The dataset was downloaded from kaggle 
-[Indian Road Accident Dataset (2022–2025)]([https://youtu.be/uPkemycepLc?si=NhYM72UR_J_zB6EZ](https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025))
+[Indian Road Accident Dataset (2022–2025)](https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025).
